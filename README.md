@@ -1,2 +1,4 @@
 # Cloud-demo-1
-This is my First repository while I am learning Cloud Computing Programming Foundational skills -Author Zain Kayani
+This is my First repository while I am learning Cloud Computing Programming Foundational skills
+<br>
+-Author Zain Kayani
